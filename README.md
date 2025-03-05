@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there! 👋 I'm Vincenzo Piras
 
-<!--
-**Vincenzo0611/Vincenzo0611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Student** | 💻 **Software Developer** | 🚀 **Tech Enthusiast**
 
-Here are some ideas to get you started:
+## About Me 🧑‍💻
+I'm a third-year Computer Science student at Gdańsk University of Technology with a strong passion for software development. My main focus is back-end development in **Java**, but I also enjoy working on full-stack applications and experimenting with **Docker** for containerized environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My Tech Stack
+- **Languages:** Java ☕ | C++ 🔷 | SQL 🛢 | Python 🐍 | HTML & CSS 🎨
+- **Frameworks & Tools:** Spring Boot 🌱 | Hibernate 🔗 | REST API ⚡ | Angular 🅰️ | Docker 🐳 | GitHub 🖥 | Postman 📬
+- **Databases:** SQL (PostgreSQL, MySQL) 🗄
+- **Operating Systems:** Windows 🏁 | Linux 🐧
+
+## 📫 Connect With Me
+📧 [vincenzo.piras@o2.pl](mailto:vincenzo.piras@o2.pl)  
+🐙 [GitHub](https://github.com/Vincenzo0611)  
+
+Let's build something amazing together! 🚀
+
