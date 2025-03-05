@@ -10,7 +10,7 @@ I'm a third-year Computer Science student at Gdańsk University of Technology wi
 - **Frameworks & Tools:** Spring Boot 🌱 | Hibernate 🔗 | REST API ⚡ | Angular 🅰️ | Docker 🐳 | GitHub 🖥 | Postman 📬
 - **Databases:** SQL (PostgreSQL, MySQL) 🗄
 - **Operating Systems:** Windows 🏁 | Linux 🐧
-- 
+
 ## 📫 Connect With Me
 📧 [vincenzo.piras@o2.pl](mailto:vincenzo.piras@o2.pl)  
 🐙 [GitHub](https://github.com/Vincenzo0611)  
